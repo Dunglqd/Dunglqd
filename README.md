@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **everything I can :3**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dunglqd?tab=repositories](https://github.com/Dunglqd?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/Dunglqd?tab=repositories)
 
 - 💬 Ask me about **everything**
 
